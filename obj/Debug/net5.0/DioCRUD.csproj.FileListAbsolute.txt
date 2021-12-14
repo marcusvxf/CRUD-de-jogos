@@ -1,0 +1,16 @@
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\bin\Debug\net5.0\DioCRUD.exe
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\bin\Debug\net5.0\DioCRUD.deps.json
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\bin\Debug\net5.0\DioCRUD.runtimeconfig.json
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\bin\Debug\net5.0\DioCRUD.runtimeconfig.dev.json
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\bin\Debug\net5.0\DioCRUD.dll
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\bin\Debug\net5.0\ref\DioCRUD.dll
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\bin\Debug\net5.0\DioCRUD.pdb
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\DioCRUD.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\DioCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\DioCRUD.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\DioCRUD.AssemblyInfo.cs
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\DioCRUD.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\DioCRUD.dll
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\ref\DioCRUD.dll
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\DioCRUD.pdb
+C:\Users\marcu\Desktop\projetos c#\DioCRUD\DioCRUD\obj\Debug\net5.0\DioCRUD.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5NqfjuqU79mqLI6sbx7EUm9a6AKsMmGhqbRVjNaNfY44ZXnkvYA7si9xb5VhmdLILFOzTCuqm4oTyhd0AWLow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcu\\Desktop\\projetos c#\\DioCRUD\\DioCRUD\\DioCRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
